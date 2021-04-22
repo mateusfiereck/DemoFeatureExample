@@ -1,0 +1,8 @@
+include ':app',
+        ':featuredemo:democharacter',
+        ':feature:character',
+        ':feature:episode',
+        ':feature:home',
+        ':feature:location',
+        ':lib:navigation',
+        ':lib:network'
